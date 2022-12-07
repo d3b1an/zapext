@@ -1,7 +1,7 @@
 package zapsyslog
 
 import (
-	"log/syslog"
+	syslog "github.com/hashicorp/go-syslog"
 
 	"github.com/pkg/errors"
 	"go.uber.org/zap/zapcore"
