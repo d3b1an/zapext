@@ -1,4 +1,4 @@
-module github.com/tchap/zapext/v2
+module github.com/d3b1an/zapext
 
 go 1.13
 
